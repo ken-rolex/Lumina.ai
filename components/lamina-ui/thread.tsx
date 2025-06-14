@@ -19,8 +19,8 @@ import {
 import { cn } from "@/lib/utils";
 
 import { Button } from "@/components/ui/button";
-import { MarkdownText } from "@/components/assistant-ui/markdown-text";
-import { TooltipIconButton } from "@/components/assistant-ui/tooltip-icon-button";
+import { MarkdownText } from "@/components/lamina-ui/markdown-text";
+import { TooltipIconButton } from "@/components/lamina-ui/tooltip-icon-button";
 import { ToolFallback } from "./tool-fallback";
 
 export const Thread: FC = () => {
@@ -92,7 +92,7 @@ const ThreadWelcomeSuggestions: FC = () => {
         autoSend
       >
         <span className="line-clamp-2 text-ellipsis text-sm font-semibold">
-          What is the weather in Tokyo?
+          What  are the role  of DSA in computer science ?
         </span>
       </ThreadPrimitive.Suggestion>
       <ThreadPrimitive.Suggestion
@@ -102,7 +102,7 @@ const ThreadWelcomeSuggestions: FC = () => {
         autoSend
       >
         <span className="line-clamp-2 text-ellipsis text-sm font-semibold">
-          What is assistant-ui?
+          What are the role of DSA in computer science ? 
         </span>
       </ThreadPrimitive.Suggestion>
     </div>
