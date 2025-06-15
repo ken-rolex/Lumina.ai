@@ -7,7 +7,7 @@
 [![Authentication by Clerk](https://img.shields.io/badge/Authentication-Clerk-lightgreen)](https://clerk.com/)
 
 Lumina is a modern, responsive AI chat interface built with Next.js and TypeScript, designed to provide a seamless and engaging user experience.
-
+ 
 ## Features 🚀
 
 *   **Next.js 13+ (App Router):** Leverages the latest features of Next.js for optimal performance and routing.
