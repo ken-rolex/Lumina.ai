@@ -77,6 +77,9 @@ Follow these steps to get Lumina up and running on your local machine.
 ## Project Structure 📂
 
 
+```
+
+
 
 
 lumina/
@@ -90,6 +93,8 @@ lumina/
 │   └── thread.tsx
 ├── public/
 └── styles/
+
+```
 
 
 ## Key Components 🧩
